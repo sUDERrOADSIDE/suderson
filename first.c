@@ -2,7 +2,7 @@
 
 int main()
 {
-    char s[20];
+    char s[200];
     int n,i;
     scanf("%s",s);
     scanf("%d",&n);
