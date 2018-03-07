@@ -8,7 +8,7 @@ int main(void)
 
 int x,y,temp;
 
-printf("\n enter two numbers to swap:");
+printf("\n enter two numbers:");
 
 scanf("%d %d",&x,&y);
 
